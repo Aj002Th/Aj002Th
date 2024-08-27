@@ -7,8 +7,8 @@
 </div>
   
   ###  🚀About Me
-  - 👋 Hi, I’m @Aj002Th,a college student.
-  - 👀 I’m interested in BackEnd.
+  - 👋 Hi, I’m @Aj002Th,a Backend Developer.
+  - 👀 I have an interest in cloud-native technologies and system architecture design.
   - 🌱 I’m currently learning Go and Vue.
   
   ### ⚙️GitHub Analytics
