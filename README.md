@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Go and Vue
 - 🎿 Hobbies other than coding : Reading Books, Playing Games, Thinking about writing blogs🤖..
 - 📫 How to reach me: [aj002th@qq.com](aj002th@qq.com)
-- 📖 My Blog：[Aj002Th的奇思乱想](https://aj002th.github.io/)
+- 📖 My Blog：[Aj002Th's Blog](https://aj002th.github.io/)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
